@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 14300d596e0625545b822a17a9f7d07b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Corp
+    100002: IK Chain001
+    100004: IK Chain002
+    100006: IK Chain003
+    100008: IK Chain004
+    100010: LeftFootBones
+    100012: LeftFootBones01
+    100014: LeftFootBones02
+    100016: LeftFootBones03
+    100018: Line001
+    100020: Line002
+    100022: MainBodyBones
+    100024: MainBodyBones01
+    100026: //RootNode
+    100028: RightFootBones
+    100030: RightFootBones01
+    100032: RightFootBones02
+    100034: RightFootBones03
+    400000: Corp
+    400002: IK Chain001
+    400004: IK Chain002
+    400006: IK Chain003
+    400008: IK Chain004
+    400010: LeftFootBones
+    400012: LeftFootBones01
+    400014: LeftFootBones02
+    400016: LeftFootBones03
+    400018: Line001
+    400020: Line002
+    400022: MainBodyBones
+    400024: MainBodyBones01
+    400026: //RootNode
+    400028: RightFootBones
+    400030: RightFootBones01
+    400032: RightFootBones02
+    400034: RightFootBones03
+    4300000: Corp
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Corp
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Corp
+        weight: 1
+      - path: IK Chain002
+        weight: 1
+      - path: IK Chain002/IK Chain001
+        weight: 1
+      - path: IK Chain004
+        weight: 1
+      - path: IK Chain004/IK Chain003
+        weight: 1
+      - path: Line001
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: MainBodyBones
+        weight: 1
+      - path: MainBodyBones/LeftFootBones
+        weight: 1
+      - path: MainBodyBones/LeftFootBones/LeftFootBones01
+        weight: 1
+      - path: MainBodyBones/LeftFootBones/LeftFootBones01/LeftFootBones02
+        weight: 1
+      - path: MainBodyBones/LeftFootBones/LeftFootBones01/LeftFootBones02/LeftFootBones03
+        weight: 1
+      - path: MainBodyBones/MainBodyBones01
+        weight: 1
+      - path: MainBodyBones/RightFootBones
+        weight: 1
+      - path: MainBodyBones/RightFootBones/RightFootBones01
+        weight: 1
+      - path: MainBodyBones/RightFootBones/RightFootBones01/RightFootBones02
+        weight: 1
+      - path: MainBodyBones/RightFootBones/RightFootBones01/RightFootBones02/RightFootBones03
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .300000012
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
